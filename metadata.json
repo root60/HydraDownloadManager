@@ -1,0 +1,9 @@
+
+{
+  "name": "Hydra Download Manager (HDM)",
+  "description": "The next-generation download accelerator. Hydra Download Manager (HDM) provides intelligent multi-headed threading, dynamic segmentation, and AI-powered link analysis to maximize your bandwidth.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
